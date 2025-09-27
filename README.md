@@ -27,25 +27,34 @@ The main objective of this project is to:
 
 ### 📌 Dashboard Sections  
 
-#### 🎯 KPI Cards  
-- 🌍 **Total Countries**: 42  
-- 🗳️ **Total Votes**: 70M+  
-- ⭐ **Avg Rating**: 7.33  
-- 🎭 **Total Industries**: 96  
+## 📊 Key Insights from Dashboard  
 
-#### 📈 Trends & Distribution  
-- **Releases Over Time (2000–2024)** → Peak in **2019** with **439 releases**.  
-- **Web Series by Country** → USA (1,690), UK (391), India (243).  
-- **Top Languages** → English (2,306), Hindi (210), Japanese (195).  
-- **Industry Contribution** → Hollywood leads (**50%+**), followed by **British TV** & **Anime**.  
-
-#### 👥 Audience & Ratings  
-- **Top Rated Shows** → *Bluey (9.7)*, *The Chosen (9.7)*, *Scam 1992 (India, 9.3)*.  
-- **Most Voted Shows** → *Game of Thrones (1.8M+ votes)*, *Breaking Bad*, *The Walking Dead*.  
+| Section | Insight |
+|---------|---------|
+| 🌍 **Total Countries** | 42 |
+| 🗳️ **Total Votes** | 70M+ |
+| ⭐ **Average Rating** | 7.33 |
+| 🎭 **Total Industries** | 96 |
 
 ---
 
-## 🔑 Key Insights from Dashboard  
+| 📈 Trends & Distribution | Details |
+|---------------------------|---------|
+| **Releases Over Time (2000–2024)** | Peak in 2019 with **439 releases** |
+| **Web Series by Country** | USA (1,690), UK (391), India (243) |
+| **Top Languages** | English (2,306), Hindi (210), Japanese (195) |
+| **Industry Contribution** | Hollywood leads (**50%+**), followed by **British TV** & **Anime** |
+
+---
+
+| 👥 Audience & Ratings | Details |
+|------------------------|---------|
+| **Top Rated Shows** | *Bluey (9.7)*, *The Chosen (9.7)*, *Scam 1992 (India, 9.3)* |
+| **Most Voted Shows** | *Game of Thrones (1.8M+ votes)*, *Breaking Bad*, *The Walking Dead* |
+
+---
+
+## Visual Overview Of Dashboard
 ✅ USA, UK, and India dominate the global web series industry.  
 ✅ **2019** was the golden year with maximum releases (**439 globally**).  
 ✅ OTT boom after **2010** → India released **130+ shows** post-2010.  
@@ -55,21 +64,17 @@ The main objective of this project is to:
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Preview](https://github.com/niravtrivedi23/global-web-series-analysis/blob/main/Web%20Series%20Dashboard.png)  
+
+![Dashboard Preview](https://raw.githubusercontent.com/niravtrivedi23/global-web-series-analysis/main/Web%20Series%20Dashboard.png)
 
 ---
 
 ## 📂 Files Included  
 
-global-web-series-analysis/
-│
-├── README.md # Documentation
-├── Web Series Data.pbix # Power BI project file
-├── Web Series Dashboard.png # Dashboard screenshot
-└── Data/ # Dataset (if shareable)
-
-yaml
-Copy code
+| File Name | Description |
+|-----------|-------------|
+| [Web Series Data.pbix](https://github.com/niravtrivedi23/global-web-series-analysis/raw/main/Web%20Series%20Data.pbix) | Power BI project file containing the data model, measures, and dashboard. |
+| [Web Series Dashboard.png](https://raw.githubusercontent.com/niravtrivedi23/global-web-series-analysis/main/Web%20Series%20Dashboard.png) | Static preview of the interactive dashboard. |
 
 📌 **Power BI File Link** → [Web Series Data.pbix](https://github.com/niravtrivedi23/global-web-series-analysis/blob/main/Web%20Series%20Data.pbix)  
 
