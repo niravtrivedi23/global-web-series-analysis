@@ -19,7 +19,7 @@ The main objective of this project is to:
 - **Countries**: 42  
 - **Industries**: 96  
 - **Votes Collected**: 70M+  
-- **Data Sources**: Curated dataset combining **IMDB-style records** (titles, ratings, votes, languages, countries, industries).  
+- **Data Sources**: Kaggle   
 
 ---
 
