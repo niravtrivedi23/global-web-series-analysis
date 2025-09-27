@@ -64,7 +64,7 @@ The main objective of this project is to:
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Preview](https://raw.githubusercontent.com/niravtrivedi23/global-web-series-analysis/main/Web%20Series%20Dashboard.png)
+![Dashboard Preview](https://github.com/niravtrivedi23/global-web-series-analysis/blob/main/Web%20Series%20Dashboard%20.png)
 
 ---
 
