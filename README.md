@@ -23,11 +23,10 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Visual Overview  
+## 📊 Key Insights 
 
 ### 📌 Dashboard Sections  
-
-## 📊 Key Insights from Dashboard  
+ 
 
 | Section | Insight |
 |---------|---------|
@@ -54,7 +53,7 @@ The main objective of this project is to:
 
 ---
 
-## Visual Overview Of Dashboard
+## 📊 Visual Overview Of Dashboard
 ✅ USA, UK, and India dominate the global web series industry.  
 ✅ **2019** was the golden year with maximum releases (**439 globally**).  
 ✅ OTT boom after **2010** → India released **130+ shows** post-2010.  
